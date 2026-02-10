@@ -107,14 +107,11 @@ It lets you import reference images (and even **videos**) as textured planes, au
   │                                                          │
   │  2.  Open RefCast_Install.py in a text editor            │
   │                                                          │
-  │  3.  Paste your icon Base64 string here:                 │
   │                                                          │
-  │        ICON_BASE64 = """YOUR_BASE64_HERE"""              │
-  │                                                          │
-  │  4.  In 3ds Max: Scripting ──▶ Run Script               │
+  │  3.  In 3ds Max: Scripting ──▶ Run Script               │
   │      Select "RefCast_Install.py"                         │
   │                                                          │
-  │  5.  Add to toolbar:                                     │
+  │  4.  Add to toolbar:                                     │
   │      Customize ──▶ Customize User Interface              │
   │      Category: "Mostafa Tools"                           │
   │      Drag "RefCast" to any toolbar                       │
